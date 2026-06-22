@@ -15,5 +15,9 @@ Photo will put when it will be ready
 # Firmware
 
 # Notes
+It's my first project and i hope it will be good and will let me learn a lot of new interesting things, and also maybe it will be as a project for my future portfolio, but i don't think it will fit proggramation a lot, but i will see
 
 # BOM
+
+# About me
+18 years old what studying in french lycee in 1STI2D class, arrived from Ukraine, trying to learn python to make a cool things, hate studying but want to do my best to become a skilled programmer.
